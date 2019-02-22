@@ -4,7 +4,7 @@ Opdracht
 1. maak een nieuwe symfony (4) app
 2. maak een REST/JSON endpoint waar een JSON request heengestuurd kan worden in de vorm van een zoekopdracht (zie voorbeeld request 1)
 3. maak een visit aan op EasyTerra API: https://api-staging.easyterra.com/visits (zie voorbeeld visit POST request 2)
-4. gebruik de visit response en de input van de request (punt 2) om vervolgens een quote aan te maken op EasyTerra API: https://api-staging.easyterra.com/quotes (zie voorbeeld request 3). Hergebruik zoveel mogelijk de input. Voorzie de request van headers.
+4. gebruik de input van de request (punt 2) en de visit response (punt 3) om vervolgens een quote aan te maken op EasyTerra API: https://api-staging.easyterra.com/quotes (zie voorbeeld request 3). Hergebruik zoveel mogelijk de input. Voorzie de request van headers.
 5. geef de quote response en visit response terug in een HTTP response
 
 Pre:
